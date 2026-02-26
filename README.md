@@ -47,15 +47,22 @@ Experienced in designing clean frontend architectures, high-performance backend 
     <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
   </p>
 
-  ## AI & ML
-  <div style="padding:10px;display:flex; justify-content: center; gap:8px">
-  <div style="background:black;padding:10px;border-radius:12px;align-items:center">
-      <img height="25" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPxQId-agz4p6H0j82CmlVkdDIBu3pUlcNg&s"/>
-  </div>
-  <div style="background:black;padding:10px;border-radius:12px;align-items:ceter; text-align:center">
-      <img height="25" width="30" src="https://cdn-icons-png.freepik.com/512/8708/8708769.png"/>
-  </div>
-  </div>
+ <!-- AI & ML HEADER -->
+## AI & ML
+
+<p align="center">
+
+  <span style="display:inline-block; background:black; padding:12px; border-radius:12px; margin:20px;">
+    <img height="50" width="50" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPxQId-agz4p6H0j82CmlVkdDIBu3pUlcNg&s"/> &nbsp
+  </span>
+
+  <span style="display:inline-block; background:black; padding:12px; border-radius:12px; margin:20px;">
+    <img height="50" width="50" 
+    src="https://cdn-icons-png.freepik.com/512/8708/8708769.png"/>
+  </span>
+
+</p>
 
   </div>
 
