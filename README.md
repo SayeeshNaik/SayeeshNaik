@@ -1,6 +1,9 @@
-<!-- Animated Black & Red Header -->
+<!-- MAIN HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:000000,700:FF0000&height=220&section=header&text=Sayeesh%20Naik&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=|| Senior%20Full-Stack%20Developer ||&descSize=28&=FF0000&descAlignY=70&descAlign=50&alignItems=center"/>
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:000000,100:FF0000&height=250&section=header&text=Sayeesh%20Naik&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=30&desc=%7C%7C%20Senior%20Full-Stack%20Developer%20%7C%7C&descSize=28&descAlignY=55&descAlign=50"
+  />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -8,119 +11,163 @@
   <img width="100%" src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&lines=Frontend+Architecture+%7C+React+%7C+Angular+%7C+Vue;Backend+Engineering+%7C+Python+%7C+FastAPI+%7C+NodeJS;Automation+%7C+Scraping+%7C+Workflow+Systems;AI+Integration+%7C+MCP+Tool+%7C+Chatbot+Systems"/>
 </p>
 
----
+<!-- PROFESSIONAL OVERVIEW HEADER -->
+<p align="center" style="margin-bottom:-0px; margin-top:50px;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:000000,100:000000,0:FF0000&height=120&section=header&text=Professional%20Overview&fontSize=35&fontColor=FFFFFF&fontAlignY=30"/>
+</p>
 
-## Professional Overview
-
-<p>
+<p align="center" style="line-height:2;font-size:20px;margin-top:-50px">
 I'm a Full-Stack Developer specializing in scalable web systems, enterprise automation, and AI-driven workflow integrations.  
 Experienced in designing clean frontend architectures, high-performance backend APIs, and large-scale scraping & automation pipelines.
 </p>
 
----
+<!-- TECH STACK HEADER -->
+<div align="center" style="margin-bottom:30px; margin-top:90px">
+  <p align="center" style="margin-bottom:-50px">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,00:000000,100:FF0000&height=120&section=header&text=Tech%20Stack&fontSize=35&fontColor=FFFFFF&fontAlignY=30"/>
+  </p>
 
-# Tech Stack
+  ## Frontend
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,typescript,tailwind,bootstrap,scss,html,css,javascript" />
+  </p>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,typescript,tailwind,bootstrap,scss,html,css,javascript" />
-</p>
+  ## Backend
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,nodejs,express,flask,fastapi" />
+  </p>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,flask,fastapi" />
-</p>
+  ## Database
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
+  </p>
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
-</p>
+  ## Automation & DevOps
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
+  </p>
 
-### Automation & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
-</p>
-
-### AI & ML
-
-<div align="left" style= "display:flex;gap:10px;margin:15px">
-
-  <!-- MCP / Automation Logo (Orange) -->
-  <div style="background:black; padding:10px;border-radius:12px">
-  <svg xmlns="http://www.w3.org/2000/svg" width="30" height="25" fill="#ff7300" viewBox="2 2 20 20">
-    <path d="m19.97,11.84c.66-.66,1.02-1.53,1.02-2.46s-.36-1.8-1.02-2.46l-.04-.04c-.66-.66-1.53-1.02-2.46-1.02-.17,0-.34.03-.51.05.02-.17.05-.33.05-.51,0-.93-.36-1.8-1.02-2.46-.66-.66-1.53-1.02-2.46-1.02s-1.8.36-2.46,1.02l-7.87,7.87c-.27.27-.27.71,0,.98s.71.27.98,0l7.87-7.87c.39-.39.92-.61,1.47-.61s1.08.22,1.47.61c.39.39.61.92.61,1.48s-.22,1.08-.61,1.48l-5.86,5.86-.08.08c-.27.27-.27.71,0,.98.14.14.31.2.49.2s.36-.07.49-.2l5.94-5.94c.39-.39.92-.61,1.48-.61s1.08.22,1.47.61l.04.04c.39.39.61.92.61,1.47s-.22,1.08-.61,1.48l-7.11,7.11c-.63.63-.63,1.66,0,2.29l1.46,1.46c.14.14.31.2.49.2s.36-.07.49-.2c.27-.27.27-.71,0-.98l-1.46-1.46c-.09-.09-.09-.24,0-.33l7.11-7.11Z"/>
-    <path d="m17.96,9.83c.27-.27.27-.71,0-.98-.27-.27-.71-.27-.98,0l-5.82,5.82c-.81.81-2.14.81-2.95,0-.81-.81-.81-2.14,0-2.95l5.82-5.82c.27-.27.27-.71,0-.98-.27-.27-.71-.27-.98,0l-5.82,5.82c-1.36,1.36-1.36,3.56,0,4.92.68.68,1.57,1.02,2.46,1.02s1.78-.34,2.46-1.02l5.82-5.82Z"/>
-  </svg>
+  ## AI & ML
+  <div style="padding:10px;display:flex; justify-content: center; gap:8px">
+  <div style="background:black;padding:10px;border-radius:12px;align-items:center">
+      <img height="25" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPxQId-agz4p6H0j82CmlVkdDIBu3pUlcNg&s"/>
+  </div>
+  <div style="background:black;padding:10px;border-radius:12px;align-items:ceter; text-align:center">
+      <img height="25" width="30" src="https://cdn-icons-png.freepik.com/512/8708/8708769.png"/>
+  </div>
   </div>
 
-  <!-- Chat Bot Logo (Blue) -->
-  <div style="background:black; padding:10px;border-radius:12px">
-  <svg  xmlns="http://www.w3.org/2000/svg" width="30" height="25"  
-fill="#00baff" viewBox="2 2 20 20" >
-<!--Boxicons v3.0.8 https://boxicons.com | License  https://docs.boxicons.com/free-->
-<path d="M8.5 10a1.5 2 0 1 0 0 4 1.5 2 0 1 0 0-4m7 0a1.5 2 0 1 0 0 4 1.5 2 0 1 0 0-4M8 16h8v2H8z"></path><path d="M21 11V8c0-1.1-.9-2-2-2h-6V4.61c.3-.27.5-.67.5-1.11 0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5c0 .44.2.84.5 1.11V6H5c-1.1 0-2 .9-2 2v3c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1v3c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-3c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1M5 20V8h14v12z"></path>
-</svg>
   </div>
 
+<!-- PROJECTS HEADER -->
+<p align="center" style="margin-bottom:-30px">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:000000,100:000000,0:FF0000&height=120&section=header&text=Highlight%20Projects&fontSize=35&fontColor=FFFFFF&fontAlignY=30"/>
+</p>
+
+
+<!-- MCP PROJECT -->
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF4500&height=90&section=header&text=MCP%20Tool%20%E2%80%93%20Redmine%20Automation&fontSize=24&fontColor=FFFFFF"
+  />
+</p>
+
+<div style="margin:20px 0; line-height:1.8;">
+  Designed an AI-driven automation layer on top of Redmine to eliminate repetitive manual workflows.  
+  Implemented headless CRUD orchestration through APIs, enabling seamless backend task execution.  
+  Built intelligent ticket interpretation that generates contextual code snippets.  
+  Developed real-time performance dashboards for teams and sprint tracking.  
+  Automated technical and functional documentation generation to improve delivery efficiency.
 </div>
 
----
 
-# Highlight Projects
+<!-- GOOGLE SHEETS PROJECT -->
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00C853&height=90&section=header&text=Google%20Sheets%20Automation%20Platform&fontSize=24&fontColor=FFFFFF"
+  />
+</p>
 
-### MCP Tool – Redmine Automation
-- Integrated MCP with Redmine APIs to automate CRUD operations without UI.
-- Built AI-powered ticket analysis system generating contextual code snippets.
-- Developed real-time dashboards tracking team, project, and developer performance.
-- Automated technical & functional documentation generation.
-- Reduced manual engineering effort through workflow automation.
+<div style="margin:20px 0; line-height:1.8;">
+  Architected a Django-based automation system integrating Google Drive and Sheets APIs.  
+  Implemented structured folder lifecycle management with scalable data organization.  
+  Built secure sheet CRUD workflows with programmatic control.  
+  Designed fine-grained, cell-level permission logic for enterprise collaboration.
+</div>
 
----
 
-### Google Sheets Automation System
-- Built Django-based automation for Google Drive & Sheets lifecycle management.
-- Implemented folder creation, structured storage, and sheet CRUD operations.
-- Designed fine-grained cell-level permission controls for secure collaboration.
-- Integrated Google APIs for scalable enterprise workflows.
+<!-- ENTERPRISE WEB APPLICATIONS -->
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2979FF&height=90&section=header&text=Enterprise%20Web%20Application%20Systems&fontSize=24&fontColor=FFFFFF"
+  />
+</p>
 
----
+<div style="margin:20px 0; line-height:1.8;">
+  Delivered scalable Angular and React frontend architectures with modular design principles.  
+  Engineered high-performance REST APIs using Flask and NodeJS.  
+  Structured backend services with optimized database interactions.  
+  Integrated third-party services to expand business functionality and performance.
+</div>
 
-### Enterprise Web Applications
-- Developed responsive applications using Angular & React.
-- Designed REST APIs with Flask & NodeJS.
-- Implemented scalable backend services with optimized database queries.
-- Integrated third-party APIs for enhanced application capabilities.
 
----
+<!-- DATA DASHBOARD -->
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:9C27B0&height=90&section=header&text=High-Performance%20Data%20Dashboard&fontSize=24&fontColor=FFFFFF"
+  />
+</p>
 
-### Data Dashboard Application
-- Built high-performance analytics dashboard using React + Material UI.
-- Backend powered by FastAPI with Pandas-based transformations.
-- Implemented filtering, pagination, dynamic querying & Excel export.
-- Structured clean architecture: routers, models, schemas, services, core modules.
-- Used SQLAlchemy ORM with optimized queries and Pydantic validation.
+<div style="margin:20px 0; line-height:1.8;">
+  Built a high-performance analytics platform using React and FastAPI.  
+  Implemented Pandas-based data transformation pipelines for efficient processing.  
+  Optimized SQLAlchemy ORM queries for improved backend performance.  
+  Designed a clean layered architecture including routers, models, schemas, and services.  
+  Enabled advanced filtering, pagination, and Excel export capabilities.
+</div>
 
----
 
-### Chat Widget System
-- Built real-time messaging widget using React.
-- Backend APIs powered by NodeJS.
-- Integrated Android Kotlin layer for cross-platform communication.
-- Implemented message state updates and interactive UI features.
+<!-- CHAT WIDGET -->
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00BCD4&height=90&section=header&text=Real-Time%20Chat%20Widget%20System&fontSize=24&fontColor=FFFFFF"
+  />
+</p>
 
----
+<div style="margin:20px 0; line-height:1.8;">
+  Developed a responsive real-time messaging interface using React.  
+  Designed scalable NodeJS backend APIs for real-time communication.  
+  Integrated Kotlin-based Android support for cross-platform functionality.  
+  Implemented message state tracking and dynamic UI updates.
+</div>
 
-### Chrome Extension – XPath Extraction
-- Developed JavaScript-based extension to dynamically capture XPaths.
-- Integrated with Selenium, Scrapy, and BeautifulSoup pipelines.
-- Enabled scalable automated scraping workflows.
-- Applied scraping logic for e-commerce platforms (Flipkart, Amazon).
 
----
+<!-- CHROME EXTENSION -->
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFC107&height=90&section=header&text=Chrome%20Extension%20%E2%80%93%20XPath%20Extraction%20Engine&fontSize=24&fontColor=FFFFFF"
+  />
+</p>
 
-<div align="center" style="margin-top:50px">
-  <h1 align="center"style="font-weight:bold"> ||── Connect With Me ──|| </h1>
+<div style="margin:20px 0; line-height:1.8;">
+  Engineered a browser-based JavaScript extension for dynamic XPath capture.  
+  Integrated the system with Selenium, Scrapy, and BeautifulSoup pipelines.  
+  Enabled scalable structured data extraction workflows.  
+  Applied the scraping architecture to large-scale e-commerce environments.
+</div>
 
+<!-- CONNECT HEADER -->
+<p align="center" style="margin-top:30px">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,0:000000,100:FF0000&height=120&section=header&text=Connect%20With%20Me&fontSize=35&fontColor=FFFFFF&fontAlignY=30"/>
+</p>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/sayeesh-naik-116887270">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/>
   </a>
@@ -134,6 +181,10 @@ fill="#00baff" viewBox="2 2 20 20" >
   </a>
 </div>
 
+<!-- FOOTER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=150&section=footer"/>
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=100:FF0000,0:000000&height=180&section=footer&text=Thank%20You&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=70"
+  />
 </p>
